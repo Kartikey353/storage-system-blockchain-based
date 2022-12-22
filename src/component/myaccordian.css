@@ -1,9 +1,0 @@
-.main-heading{
-    display: flex;
-    flex-flow: row;
-    align-content: space-between;
-    text-align: center;
-}
-.left{
-    margin-left: auto;
-}
